@@ -26,10 +26,10 @@
     },	
  
     {
-      "question": "Mechanical properties of a rock mass depends on the following factors &#013; Statement (i) : The mechanical properties of individual elements constituting the system. &#013; Statement (ii) : The sliding friction along the planes of weakness. &#013; Statement (iii) : The configuration of the system with respect to direction of loading &#013; Statement (iv) :  The induced stress condition inside the mass. &#013; Out of the above statements :",
+      "question": "Mechanical properties of a rock mass depends on the following factors <br/> Statement (i) : The mechanical properties of individual elements constituting the system. <br/> Statement (ii) : The sliding friction along the planes of weakness. <br/> Statement (iii) : The configuration of the system with respect to direction of loading <br/> Statement (iv) :  The induced stress condition inside the mass. <br/> Out of the above statements :",
       "answers": {
         "a": "Only (iv) is correct.",
-        "b": "COnly (i) is correct",
+        "b": "Only (i) is correct",
         "c": "None is correct",
         "d": "All are correct"
       },
@@ -39,7 +39,7 @@
   
 	
 	{
-      "question": " Statement (i) :  Rocks fail by splitting, shear or combination of these&#013; Statement (ii) : Failure of rock is either ductile or brittle and it depends upon the amount of temperature&#013; Statement (iii) : Fracture of rock is either ductile or brittle and it depends upon the amount of confining pressure&#013; Statement (iv) : Shear failure occurs in a rock if confining pressures are sufficiently high to prevent splitting.&#013; Out of above statements. which choice is correct.",
+      "question": " Statement (i) :  Rocks fail by splitting, shear or combination of these <br/> Statement (ii) : Failure of rock is either ductile or brittle and it depends upon the amount of temperature <br/> Statement (iii) : Fracture of rock is either ductile or brittle and it depends upon the amount of confining pressure <br/> Statement (iv) : Shear failure occurs in a rock if confining pressures are sufficiently high to prevent splitting.<br/> Out of above statements. which choice is correct.",
       "answers": {
         "a": "All are correct",
         "b": "All are correct except (ii)",
