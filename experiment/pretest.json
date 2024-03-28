@@ -2,38 +2,68 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "In addition to the environment, rock strength depends on the following : &#013; Statement (i) : Size of the rock specimen &#013; Statement (ii) : Rate of loading &#013; Statement (iii) : Cycle of loading &#013; Statement (iv) : Loading condition.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "(i) and (ii) are correct",
+        "b": "(iii) and (iv) are correct",
+        "c": "All are correct",
+        "d": "None is correct"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": " C ",
+      "difficulty": "beginner"
+    },
+	
+    {
+      "question": "Mechanical properties which are of interest in rock mechanics are: Strength, Deformability, Elasticity and ___________ ",
+      "answers": {
+        "a": "Hardness",
+        "b": "Porosity",
+        "c": "Moisture content",
+        "d": "Swelling"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },	
+ 
+    {
+      "question": "Mechanical properties of a rock mass depends on the following factors &#013; Statement (i) : The mechanical properties of individual elements constituting the system. &#013; Statement (ii) : The sliding friction along the planes of weakness. &#013; Statement (iii) : The configuration of the system with respect to direction of loading &#013; Statement (iv) :  The induced stress condition inside the mass. &#013; Out of the above statements :",
+      "answers": {
+        "a": "Only (iv) is correct.",
+        "b": "COnly (i) is correct",
+        "c": "None is correct",
+        "d": "All are correct"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
-    {
-      "question": "This is a Sample Question 2?",
+  
+	
+	{
+      "question": " Statement (i) :  Rocks fail by splitting, shear or combination of these&#013; Statement (ii) : Failure of rock is either ductile or brittle and it depends upon the amount of temperature&#013; Statement (iii) : Fracture of rock is either ductile or brittle and it depends upon the amount of confining pressure&#013; Statement (iv) : Shear failure occurs in a rock if confining pressures are sufficiently high to prevent splitting.&#013; Out of above statements. which choice is correct.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "All are correct",
+        "b": "All are correct except (ii)",
+        "c": "All are correct except (iii)",
+        "d": "All are correct except (iv)"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+	
+	{
+      "question": "Rocks fail by",
+      "answers": {
+        "a": "Splitting",
+        "b": "Shear",
+        "c": "Combination of splitting and Shear",
+        "d": "None of these"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
+	
+ 
   ]
 }
+
+

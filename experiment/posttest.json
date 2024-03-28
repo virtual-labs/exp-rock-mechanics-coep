@@ -2,12 +2,46 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": " High recovery and long pieces indicate solid unfractured rock • Low recovery and crumbled pieces indicate highly fractured rock",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Illogical statement",
+        "b": " True but not Sure",
+        "c": "TRUE - Completely Agree",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": " in order to accurately assess strength of the rock mass following should be known-",
+      "answers": {
+        "a": " Orientation of Weak Planes ",
+        "b": "Spacing, orientation,  and roughness along the  weak planes ",
+        "c": "Roughness along the  weak planes",
+        "d": "None of the above "
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "  When rock mass undergoes stress, it will preferentially fail along",
+      "answers": {
+        "a": "existing planes of weakness ",
+        "b": "Along fracture Planes ",
+        "c": " Both A & B",
+        "d": "None of the above "
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -18,13 +52,13 @@
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
-    {
-      "question": "This is a Sample Question 2?",
+	{
+      "question": "The density of rock with natural moisture content is __",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Bulk Density",
+        "b": "Dry Density ",
+        "c": "Wet Density",
+        "d": " Natural Density"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -32,7 +66,24 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "The branch or study which deals with behaviour of rocks under applied forces is called __",
+      "answers": {
+        "a": " Soil Mechanics",
+        "b": "Rock Mechanics",
+        "c": "Lithology",
+        "d": "Geology"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]

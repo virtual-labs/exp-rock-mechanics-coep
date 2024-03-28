@@ -1,1 +1,6 @@
-### Procedure
+- Solve given question and sumit it.
+- Select any core type.
+- click on start button to see mimic and calculate RQD using given set of core length pieces and total length of core run.
+- Select correct Description(Weathering and Special features)
+- Select new core.
+- Now repeat same steps for another core type.
