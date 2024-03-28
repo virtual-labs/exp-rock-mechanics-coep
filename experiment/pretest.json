@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "In addition to the environment, rock strength depends on the following : \ Statement (i) : Size of the rock specimen \ Statement (ii) : Rate of loading \ Statement (iii) : Cycle of loading \ Statement (iv) : Loading condition.",
+      "question": "In addition to the environment, rock strength depends on the following :<br/> Statement (i) : Size of the rock specimen <br/> Statement (ii) : Rate of loading <br/> Statement (iii) : Cycle of loading <br/> Statement (iv) : Loading condition.",
       "answers": {
         "a": "(i) and (ii) are correct",
         "b": "(iii) and (iv) are correct",
