@@ -1,0 +1,6 @@
+- ROCK MASS CLASSIFICATION, by Bhawani Singh and R.K. Goel
+- ENGINEERING ROCK MECHANICS: Part 1, by John A. Hudson and John P. Harrison
+- ENGINEERING ROCK MECHANICS: Part 2, by John A. Hudson and John P. Harrison
+- FUNDAMENTALS OF ROCK MECHANICS by J. C. Jaeger, N. G. W. Cook, andR. W. Zimmerman
+- ROCK MECHANICS FOR UNDERGROUND MINING by B. H. G. Brady and E. T. Brown
+- INTRODUCTION TO ROCK MECHANICS by Richard E. Goodman
